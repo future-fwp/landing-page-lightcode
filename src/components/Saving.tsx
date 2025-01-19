@@ -1,5 +1,3 @@
-import React from "react";
-
 const Saving = () => {
 	return (
 		<section id="saving-money">
